@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { ethers } from "ethers";
-import ErrorMessage from "./ErrorMessage";
-import TxList from "./TxList";
+import ErrorMessage from "./components/ErrorMessage";
+import TxList from "./components/TxList";
 
 const startPayment = async ({ setError, setTxs, ether, addr }) => {
   try {
