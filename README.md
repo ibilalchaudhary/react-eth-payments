@@ -26,10 +26,10 @@
   <a href="#-license">License</a>
 </p>
 
-## 👨🏻‍💻 About the project
+## About the project
 
 <p align="center">
-  <img src="https://github.com/eltonlazzarin/react-make-eth-payments/blob/main/readmeAssets/uniswapCloneInterface.gif">
+  <img src="https://github.com/eltonlazzarin/react-make-eth-payments/blob/main/readmeAssets/makePaymentsDApp.gif">
 </p>
 
 <p>This project was developed with ReactJS, being a DApp application (decentralized application) which aims to make payments in ETH on the Ethereum network via MetaMask digital wallet previously installed in your browser for another wallet.
