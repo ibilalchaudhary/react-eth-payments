@@ -22,8 +22,6 @@
   <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
 </p>
 
 ## About the project
@@ -75,28 +73,3 @@ $ yarn
 # Run the web app
 $ yarn start
 ```
-
-## 🤔 How to contribute
-
-**Follow the steps below**
-
-```bash
-# Clone your fork
-$ git clone https://github.com/eltonlazzarin/react-make-eth-payments.git
-
-# Create a branch with your feature
-$ git checkout -b your-feature
-
-# Make the commit with your changes
-$ git commit -m 'feat: Your new feature'
-
-# Send the code to your remote branch
-$ git push origin your-feature
-```
-
-After your pull request is merged, you can delete your branch
-
-## 📝 License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/react-make-eth-payments/blob/master/LICENSE) for more information.
-
